@@ -6,3 +6,5 @@ Word2vec can utilize either of two model architectures:
  Continuous Bag of Words (CBOW) , Skip-gram
 # doc2vec
 Doc2Vec is also called a Paragraph Vector a popular technique in Natural Language Processing that enables the representation of documents as vectors. The vectors are learned in such a way that similar documents are mapped to nearby points in the vector space. This enables us to compare documents based on their vector representation and perform tasks such as document classification, clustering, and similarity analysis.
+# Example(word2vec)
+![image](https://github.com/user-attachments/assets/314f1a6c-2799-4e83-9b58-2243fec758a4)
